@@ -1,2 +1,0 @@
-# CarrerComet.github.io
-WebContent
